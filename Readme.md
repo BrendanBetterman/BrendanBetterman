@@ -1,6 +1,6 @@
 <h1><strong>Xyphold's Github Page</strong></h1>
 <br>
 
-<ul>
-   <li></li>
-</ul>
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BrendanBetterman&show_icons=true&theme=gotham" alt="BrendanBetterman" />
