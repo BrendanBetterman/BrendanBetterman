@@ -9,6 +9,8 @@
 <a  href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanBetterman&show_icons=true&theme=dark" />
 </a>
+<a href="https://www.youtube.com/channel/UCa6zN-WOC0WXx2hW2QxDoyg"/>
+<h2><strong>Youtube</h2></a>
 <a href="https://youtu.be/uSYd8HjY6GE">
-<img style="width: 50%;" src="thumpug.png"/>
+<img style="width: 40%;" src="thumpug.png"/>
 </a>
