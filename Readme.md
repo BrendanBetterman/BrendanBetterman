@@ -3,7 +3,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrendanBetterman&show_icons=true&theme=dark" />
-  <img align="center" src="https://media-be.chewy.com/wp-content/uploads/2021/05/27140116/Pug_FeaturedImage.jpg"/>
+ 
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanBetterman&show_icons=true&theme=dark)" />
