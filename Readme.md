@@ -5,7 +5,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrendanBetterman&show_icons=true&theme=dark" />
  
 </a><br>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanBetterman&show_icons=true&theme=dark" />
+
+<a  href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendanBetterman&show_icons=true&theme=dark" />
+</a>
+<a href="https://youtu.be/uSYd8HjY6GE">
+<img style="width: 50%;" src="thumpug.png"/>
 </a>
 <a href="https://google.com">Google</a>
