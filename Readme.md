@@ -12,4 +12,3 @@
 <a href="https://youtu.be/uSYd8HjY6GE">
 <img style="width: 50%;" src="thumpug.png"/>
 </a>
-<a href="https://google.com">Google</a>
