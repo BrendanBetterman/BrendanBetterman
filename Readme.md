@@ -11,6 +11,6 @@
 </a>
 <a href="https://www.youtube.com/channel/UCa6zN-WOC0WXx2hW2QxDoyg"/>
 <h2><strong>Youtube</h2></a>
-<a href="https://youtu.be/uSYd8HjY6GE">
-<img style="width: 40%;" src="thumpug.png"/>
+<a href="https://youtu.be/pK2BPDsDUbU">
+<img style="width: 40%;" src="https://i9.ytimg.com/vi/pK2BPDsDUbU/mqdefault.jpg?v=6331bb87&sqp=CJz_xpkG&rs=AOn4CLBA3Mx4dJrKGXoVT3ejQ5cy9vCoWA"/>
 </a>
